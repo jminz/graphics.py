@@ -7,7 +7,7 @@ http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf
 pip install https://raw.githubusercontent.com/jminz/graphics.py/master/graphics-py_installer.tar.gz
 
 # Install manually
-git clone https://github.com/jminz/graphics.py.git
+`git clone https://github.com/jminz/graphics.py.git`
 
 tar -czvf graphics-py_installer.tar.gz ./graphics.py ./setup.py
 
